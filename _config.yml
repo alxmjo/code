@@ -3,7 +3,7 @@ title:       Alex Learns Programming
 email:       alexmontjohn@gmail.com
 author:      Alex Johnson
 description: "I'm teaching myself programming and writing about the process."
-baseurl:     "/code"
+baseurl:     "code"
 url:         "http://alxmjo.github.io"
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
