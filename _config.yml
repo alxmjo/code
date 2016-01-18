@@ -1,0 +1,43 @@
+# Site settings
+title:       Alex Johnson
+email:       alexmontjohn@gmail.com
+author:      Alex Johnson
+description: "Posts and pictures."
+baseurl:     ""
+url:         "http://alexmontjohn.com"
+date_format: "%b %-d, %Y"
+excerpt_separator: <!--more-->
+
+# Google services
+google_analytics: UA-21369664-3
+google_verification: JR9vdAc0O8J7dEQyRyM611lYC8v-m3l0cxTTP6D3IiI
+
+# Optional features
+animated:             false
+show_related_posts:   false
+show_post_footers:    false
+show_social_icons:    false
+ajaxify_contact_form: false
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments: 
+facebook_appid: 
+facebook_comments_number: 10
+
+# Build settings
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    /:year/:month/:day/:title/
+paginate:     3
+sass:
+  compressed: true
+
+# Gems
+gems:
+  - jekyll-paginate

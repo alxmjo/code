@@ -1,0 +1,17 @@
+---
+layout: page
+title:
+permalink: /posts/
+---
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h4 id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h1>
+    <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><span class="post-list-date">{{ post.date | date: '%B %d, %Y' }}</span><a class="post-list" href="{{ post.url }}">{{ post.title }}</a></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}

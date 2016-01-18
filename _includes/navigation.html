@@ -1,0 +1,5 @@
+{% assign current = page.url | downcase | split: '/' %}
+
+<a href="{{ site.baseurl }}/posts/" {% if current[1] == 'posts' %} class="active" {% endif %}>Posts</a>
+<a href="{{ site.baseurl }}/projects/" {% if current[1] == 'projects' %} class="active" {% endif %}>Projects</a>
+<a href="{{ site.baseurl }}/about/" {% if current[1] == 'about' %} class="active" {% endif %}>About</a>

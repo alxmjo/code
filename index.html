@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <div class="posts">
+    {% for post in paginator.posts %}
+      <div class="post py3">
+        <p class="post-meta">{{ post.date | date: site.date_format }}</p>
+        <a href="{{ post.url | prepend: site.baseurl }}#title" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
+        <div class="post-summary">
+          {% if post.summary %}
+            {% if post.image %}
+            <p><a href="{{ post.url | prepend: site.baseurl }}#title" class="image-link"><img src="{{ post.image }}" alt="summary image" /></a></p>
+            {% endif %}
+            <p>{{ post.summary }}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}#title" class="post-link">Read more &#8594;</a>
+          {% else %}
+            <p>{{ post.content }}</p>
+          {% endif %}
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  {% include pagination.html %}
+</div>
