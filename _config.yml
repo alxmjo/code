@@ -4,7 +4,7 @@ email:       alexmontjohn@gmail.com
 author:      Alex Johnson
 description: "I'm teaching myself programming and writing about the process."
 baseurl:     "/code"
-url:         "http://alxmjo.github.io"
+url:         "http://code.alxmjo.com"
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
 
