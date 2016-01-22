@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "King of None"
+date: 2016-01-22T10:32:02+03:00
 image: 
 summary: In my last post, I left off writing that September was a watershed month, though now that I think about it, the real shift came the spring before, when I saw a simple drawing in a book.
 ---
