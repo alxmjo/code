@@ -3,7 +3,7 @@ layout: post
 title: "Solving Problems"
 date: 2016-02-03T08:46:56+01:00
 image: 
-summary:
+summary: Whenever I feel like I’m focusing too much on Android and forgetting how to solve actual problems, I go to Project Euler. There are a few hundred math- and programming-related puzzles there which users are encouraged to solve by writing code.
 ---
 
 Whenever I feel like I'm focusing too much on Android and forgetting how to solve actual problems, I go to Project Euler. There are a few hundred math- and programming-related puzzles there which users are encouraged to solve by writing code. I'm on [Problem 15](https://projecteuler.net/problem=15), which asks for the number of paths through a 20 by 20 grid.
