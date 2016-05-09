@@ -17,4 +17,4 @@ As you might expect, the game was filled with bugs, so we spent most of our hour
 
 We meet every week now and spend the hour either building things on Scratch or solving programming problems on [Blockly Games](https://blockly-games.appspot.com/). I bought her a book on programming called [JavaScript for Kids](https://www.nostarch.com/javascriptforkids), but I think we'll stick with the graphical languages for a while.
 
-One thing I know I'm missing in my endeavor to learn programming is talking about it with other people (which is one of the main goals of this blog). Before I started working with Kalena I'd honestly never talked about programming with someone else who was interested in it. So now I have someone to program with. She just happens to be a ten-year old girl. 
+One thing I know I'm missing in my endeavor to learn programming is talking about it with other people (which is one of the main goals of this blog). Before I started working with Kalena (not her real name, by the way) I'd honestly never talked about programming with someone else who was interested in it. So now I have someone to program with. She just happens to be a ten-year old girl. 
