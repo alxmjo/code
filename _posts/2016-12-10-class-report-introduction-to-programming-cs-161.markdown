@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Class Report: Introduction to Programming (CS 161)"
+title: "Class Report: Intro to Programming (CS 161)"
 date: 2016-12-10T13:41:39+03:00
 image: 
 summary: I just finished my last assignment for my first course in Oregon State's online computer science program. Here's a summary.
