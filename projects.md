@@ -16,4 +16,4 @@ Here are some projects I've worked on in the past:
 * [Website for viewing dust sensor data](http://dohadust.org)
 * [Android app for viewing dust sensor data](http://)
 * [Command-line version of Qwirkle, a pattern matching board game](https://github.com/alxmjo/Quirk)
-* [Script that sorts my journal posts into one document using C++ and regex](https://github.com/alxmjo/JournalSort)
+* [Script that sorts my journal entries into one document using C++ and regex](https://github.com/alxmjo/JournalSort)
