@@ -12,7 +12,7 @@ I made a [game](https://github.com/alxmjo/Quirk) to cement some of the concepts 
 
 Creating this game required solving a few big problems and many small problems (of course, by solving, I mean finding the solution, not inventing it). 
 
-The first big problem I had to figure out was how to draw random pieces from the pool of available pieces. I used a `rand()` to get a random integer, and then used that integer as an index for the selecting a piece from the vector of pieces. 
+The first big problem I had to figure out was how to draw random pieces from the pool of available pieces. I used `rand()` to get a random integer, and then used that integer as an index for the selecting a piece from the vector of pieces. 
 
 Another problem that took me a while to figure out was how to identify what was a valid move and what wasn't. This was much more challenging than drawing a random piece, as my case was specific enough that I couldn't find applicable posts on StackOverflow or the like. What I ended up settling on was a function which assembled each run, both vertical and horizontal, into a vector. Those vectors could then be tested for length, and group, and other qualities. It also made counting points much easier.
 
