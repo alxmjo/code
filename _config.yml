@@ -35,6 +35,8 @@ redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    /:year/:month/:day/:title/
 paginate:     3
+future: false
+show_drafts: false
 sass:
   compressed: true
 
