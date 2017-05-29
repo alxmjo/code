@@ -33,7 +33,7 @@ facebook_comments_number: 10
 markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
-permalink:    /:year/:month/:day/:title/
+permalink:    /:title/
 paginate:     3
 future: false
 show_drafts: false
