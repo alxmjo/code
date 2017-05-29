@@ -4,5 +4,5 @@ title: "{{ title }}"
 date: {{ date }}
 image: 
 summary: 
-tags:
+tags: newsletter
 ---
