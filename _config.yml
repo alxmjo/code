@@ -40,6 +40,6 @@ show_drafts: false
 sass:
   compressed: true
 
-# Gems
-gems:
+# Plugins
+plugins:
   - jekyll-paginate
