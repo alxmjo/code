@@ -6,7 +6,7 @@ image: images/IMG_20170723_155759.jpg
 summary: A few weeks ago I completed my third course in Oregon State’s computer science program. It was on discrete math, which has many applications in computer science. Here are some thoughts and tips.
 permalink: osu-class-report-cs225
 category: "Oregon State University"
-tags: newsletter class-notes
+tags: newsletter class-report
 ---
 
 ![Notes. Miquelrius grid notebook and Marvy LePen pens.](images/IMG_20170723_155759.jpg)

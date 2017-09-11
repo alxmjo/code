@@ -5,7 +5,7 @@ date: 2016-12-10T13:41:39+03:00
 image: 
 summary: I just finished my last assignment for my first course in Oregon State's online computer science program. Here's a summary.
 category: "Oregon State University"
-tags: newsletter class-notes
+tags: newsletter class-report
 ---
 
 I just finished my last assignment for my first course in Oregon State's online computer science program. It was essentially an introduction to computer science and C++. 

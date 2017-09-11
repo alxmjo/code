@@ -5,7 +5,7 @@ date: 2017-04-10T18:52:20+03:00
 image: 
 summary: I just finished my second course in the computer science program at Oregon State. Here are my notes.
 category: "Oregon State University"
-tags: newsletter class-notes
+tags: newsletter class-report
 ---
 
 I just finished my second course in the computer science program at Oregon State. Like Intro to Programming I, this course focused mostly on C++ and object-oriented programming principals. Here are my notes.
