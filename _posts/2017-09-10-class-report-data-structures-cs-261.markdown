@@ -4,7 +4,7 @@ title: "Class Report: Data Structures (CS 261)"
 date: 2017-09-10T10:04:33-07:00
 image: /images/cs261notes.jpg
 summary: This summer I took Data Structures and Computer Architecture and Assembly Language. This post summarizes my experience with the former.
-permalink: class-report-cs261
+permalink: osu-cs261-class-report
 tags: newsletter
 ---
 
