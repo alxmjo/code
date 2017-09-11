@@ -5,8 +5,8 @@ date: 2017-09-10T10:04:33-07:00
 image: /images/cs261notes.jpg
 summary: This summer I took Data Structures and Computer Architecture and Assembly Language. This post summarizes my experience with the former.
 permalink: osu-cs261-class-report
-tags: newsletter class-notes
 category: "Oregon State University"
+tags: newsletter class-notes
 ---
 
 ![notebook](/images/cs261notes.jpg)
