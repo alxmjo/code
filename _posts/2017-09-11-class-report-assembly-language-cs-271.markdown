@@ -35,7 +35,7 @@ Stephen Redfield
 
 ### Programming Environment
 
-A critical part of any course that introduces a new language or framework is getting everything up and running. Since [MASM](https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler) (Microsoft Macro Assembler) isn't supported natively on Macs, I had to jump through a few hoops to complete the programming assignments. Namely, VMware Fusion to set up a virtual machine, Windows 10 installed on that virtual machine, and then Microsoft Visual Studio running on Windows 10. You can obtain licenses for those programs for free via [Oregon State's IT website](https://cosine.oregonstate.edu/msdnaa-elms). I also had to install the Irvine32 library. Details on that process are [here](http://kipirvine.com/asm/gettingStartedVS2015/index.htm).
+A critical part of any course that introduces a new language or framework is getting everything up and running. Since [MASM](https://en.wikipedia.org/wiki/Microsoft_Macro_Assembler) (Microsoft Macro Assembler) isn't supported natively on Macs, I had to jump through a few hoops to complete the programming assignments. Namely, VMware Fusion to set up a virtual machine, Windows 10 installed on that virtual machine, and then Microsoft Visual Studio running on Windows 10. You can obtain licenses for those programs for free via [Oregon State's IT website](https://it.engineering.oregonstate.edu/obtain-software-your-personal-computer-or-laptop). I also had to install the Irvine32 library. Details on that process are [here](http://kipirvine.com/asm/gettingStartedVS2015/index.htm).
 
 ### Assignments
 
