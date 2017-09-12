@@ -4,6 +4,7 @@ title: "Using Regex to Organize My Journal"
 date: 2017-01-09T10:11:19+03:00
 image: 
 summary: For the past four years I’ve been keeping a daily journal in an app called Simplenote, but because of the way I write, they're all out of order. Regex to the rescue!
+category: "Side Projects"
 ---
 
 I just finished another project I assigned myself over my winter break from classes. Like [the one]({{ site.baseurl }}{% post_url 2016-12-20-quirk %}) I completed in December, this was written in C++, but rather than a proof of concept, this had real utility for me. First, some background.

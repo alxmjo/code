@@ -4,6 +4,7 @@ title: "Quirk"
 date: 2016-12-20T20:02:22+03:00
 image: 
 summary: After I finished my introductory programming class at Oregon State, I decided to assign myself a project that I could post about online. Enter the command line game Quirk, based on the board game Qwirkle.
+category: "Side Projects"
 ---
 
 I made a [game](https://github.com/alxmjo/Quirk) to cement some of the concepts I learned in Introduction to Computer Science (CS 161) at Oregon State. It's based on the game [Qwirkle](https://en.wikipedia.org/wiki/Qwirkle) and includes all of the basic pieces of a C++ program, including headers and classes, for loops and while loops, if and switch statements, arrays, and vectors. I also employ several libraries including random, iostream, and algorithm.
