@@ -12,10 +12,10 @@ layout: default
         <div class="post-summary">
           {% if post.summary %}
             {% if post.image %}
-            <p><a href="{{ post.url | prepend: site.baseurl }}#title" class="image-link"><img src="{{ post.image }}" alt="summary image" /></a></p>
+            <p><a href="{{ post.url | prepend: site.baseurl }}" class="image-link"><img src="{{ post.image }}" alt="summary image" /></a></p>
             {% endif %}
             <p>{{ post.summary }}</p>
-            <a href="{{ post.url | prepend: site.baseurl }}#title" class="post-link">Read more &#8594;</a>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">Read more &#8594;</a>
           {% else %}
             <p>{{ post.content }}</p>
           {% endif %}
