@@ -34,7 +34,7 @@ markdown:     kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    /:title/
-paginate:     3
+paginate:     5
 future: false
 show_drafts: false
 sass:
