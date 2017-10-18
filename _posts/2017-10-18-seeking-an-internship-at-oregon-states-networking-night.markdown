@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Seeking an Internship at Oregon State's Networking Night"
+title: "Networking Night at Oregon State"
 date: 2017-10-18T11:51:46-07:00
 image: 
 summary: Last night I went to Oregon State’s Networking Night in Corvallis, Oregon. The event is meant to be an informal kick-off to the STEM Fall Career Expo, which takes place the next day. I drove down to the event from Portland, which is about an hour and a half away.
