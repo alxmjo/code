@@ -21,4 +21,4 @@ Here are some projects I've worked on in the past:
 * [Tic tac toe. In Assembly!](https://github.com/alxmjo/TicTacToe-Assembly)
 * [Command-line version of Qwirkle, a pattern matching board game](https://github.com/alxmjo/Quirk)
 * [Program that sorts journal entries using C++ and regex](https://github.com/alxmjo/JournalSort)
-* [Script for generating image-based Jekyll posts from a folder of images](https://github.com/alxmjo/PhotoPost)
+* [Script that generates Jekyll posts from a folder of images](https://github.com/alxmjo/PhotoPost)
