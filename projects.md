@@ -9,7 +9,7 @@ Right now I'm working on the following projects:
 * [B.S. in Computer Science from Oregon State University]({{ site.baseurl }}{% post_url 2016-08-31-my-plan-for-oregon-state %})
 * [Algos, an open-source algorithm library](https://github.com/faheel/Algos)
 * [This Jekyll blog tracking my programming progress]({{ site.baseurl }})
-* [A personal blog, in which I mostly write about my daughter and trips I've taken](http://alxmjo.com)
+* [A personal blog, in which I mostly write about my daughter and travel](http://alxmjo.com)
 
 Here are some projects I've worked on in the past:
 
