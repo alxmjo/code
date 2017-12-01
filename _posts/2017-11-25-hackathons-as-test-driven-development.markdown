@@ -19,7 +19,7 @@ After a brief introduction from Matt Plavcan, the organizer, we were set loose w
 
 He sat at his laptop and coded in Java while I drew diagrams and wrote pseudocode on a whiteboard. Our first instinct was to represent the game board as a two-dimensional array of ones and zeroes. Then came a review of the rules and a brief conversation about how they might be implemented. And then the time was up. 
 
-**Test:** Can I implement an idea under a time constraint?
+**Test:** Can I implement an idea under a time constraint?  
 **Development:** Practice coding with a time constraint. 
 
 The group reconvened and discussed what worked and what didn't. A few people talked a lot and most everyone else was quiet. I found myself too intimidated in the beginning to say anything, especially since I appeared to be the only non-professional programmer in the group.
