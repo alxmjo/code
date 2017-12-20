@@ -85,8 +85,6 @@ At the beginning of the term I checked out a bunch of JavaScript books from the 
 
 This course was straightforward and not particularly difficult. I spent 87 hours on the course over the entire semester, including the Udemy course I took at the beginning of the term. That works out to a little under nine hours per week. If I had decided against doing the Udemy course and had done the bare minimum for my final project, I probably could've gotten this down to about 65 hours or so. 
 
-My 
-
 ### Enjoyment
 
 This course was fine. Web development is not my number one interest in the world of programming, but I feel like the course designer, Justin Wolford, did a good job of covering an extraordinarily broad subject in a short period of time. If I decided to make a web app tomorrow, I think I'd have a reasonably good idea where to start. The only thing we never really touched on was how to handle users: accounts, passwords, etc.
