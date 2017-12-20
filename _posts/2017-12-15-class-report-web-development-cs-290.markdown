@@ -12,7 +12,7 @@ tags: newsletter class-report
 ![sheet](/images/cs290-notesheet.jpg)
 *Part of the note sheet that I used for the final.*
 
-This fall I took two courses: Web Development and Databases. This post summarizes my experiences with the latter, and offers some advice for people taking the course in the future. 
+This fall I took two courses: Web Development and Databases. This post summarizes my experiences with the former, and offers some advice for people taking the course in the future. 
 
 ### Instructor
 
