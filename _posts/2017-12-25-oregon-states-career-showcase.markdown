@@ -9,8 +9,6 @@ category: "Oregon State University"
 tags: newsletter
 ---
 
-### Introduction
-
 Oregon State hosts two [Career Showcases](http://eecs.oregonstate.edu/online-cs-students/future-students/career-showcase) each year in Portland which cater to students in the post-baccalaureate computer science program. Last week I attended the fall 2017 edition. Here's a bit about how it went and what I learned.
 
 ### Background
