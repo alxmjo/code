@@ -41,7 +41,7 @@ The next session was centered around collecting feedback about Oregon State's po
 
 After that we listened to a panel of former students talk about graduating and working as software developers. Perhaps others found this useful, but if I were to cut anything from the Career Showcase this would be it. A lot of information from the panelists was either too general or too specific. Were it up to me, I'd find a particular graduate to deliver a prepared, short talk (ten or fifteen minutes?) on a specific subject, like technical interviews, or networking, or maintaining side projects. Sort of like a TED talk. 
 
-### Poster Child
+### Posters
 
 ![career showcase poster](/images/DohaDust-CareerFairPoster.jpg)
 *The poster I prepared for the Career Showcase summarized a project I'd completed which focuses on monitoring air quality in the Persian Gulf.*
@@ -58,7 +58,7 @@ This turned out to be the best part of my Career Showcase experience. Several em
 
 If you have the opportunity to make a poster for your capstone project or another project, do it! 
 
-### Company Sessions
+### Companies
 
 The round-robin company sessions were hit and miss. For most of them, there were four or five students pulling up chairs to a table to talk with one or a few representatives from the company. Some of the company representatives were formulaic and made sure to talk to each student in turn, while others just let the most vocal students take over. In some groups I was that vocal student, in others I felt like I barely had a chance to ask questions. I'm not sure how to do this better, but I am sure that there must be a better way to do it.
 
@@ -66,7 +66,7 @@ Qorvo (semiconductors), NWEA (education), and Iovation (security) did a great jo
 
 One company I'd signed up for (Cloudability) failed to show up at all. One of the Career Showcase organizers said that they had a very good explanation for their absence, but I think it still looks bad for Oregon State and the company.
 
-### Oregon State Sessions
+### Graduate School and Mock Interview
 
 In addition to the company sessions, I signed up for one on the Graduate School and one on interviewing. I was honestly most excited about these sessions. Unfortunately, they were both a bit of a letdown, too. 
 
