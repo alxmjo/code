@@ -20,7 +20,9 @@ h6 {
 }
 
 p,
-dl {
+dl,
+ol,
+ul {
   font-size: $h4;
   margin-top: 0;
   margin-bottom: $space-2;
@@ -28,9 +30,6 @@ dl {
 
 ol,
 ul {
-  font-size: $h4;
-  margin-top: 0;
-  margin-bottom: $space-0;
   padding-left: $space-3;
 }
 
