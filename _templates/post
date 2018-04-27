@@ -2,9 +2,9 @@
 layout: {{ layout }}
 title: "{{ title }}"
 date: {{ date }}
-image: 
-summary: 
-permalink: 
-category:
-tags: newsletter
+image: 							# /images/filename.jpg
+summary: 						# A sentence or two about the post.
+permalink: 						# simple-post-title
+category:						# "Oregon State University" (only one)
+tags: newsletter				# newsletter
 ---
