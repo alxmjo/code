@@ -9,17 +9,27 @@ layout: default
       <div class="post py3">
         <p class="post-meta">{{ post.date | date: site.date_format }}</p>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-link"><h3 class="h1 post-title">{{ post.title }}</h3></a>
-        <div class="post-summary">
+
+          <!--If there's a summary, show that. Else if there's an excerpt, show that. Else just show the entire post.-->
           {% if post.summary %}
+          <div class="post-summary">
             {% if post.image %}
-            <p><a href="{{ post.url | prepend: site.baseurl }}" class="image-link"><img src="{{ post.image }}" alt="summary image" /></a></p>
+              <p><a href="{{ post.url | prepend: site.baseurl }}" class="image-link"><img src="{{ post.image }}" alt="summary image" /></a></p>
             {% endif %}
             <p>{{ post.summary }}</p>
             <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">Read more &#8594;</a>
+          </div>
+          {% else if post.excerpt %}
+          <div class="post-summary">
+            <p>{{ post.excerpt }}</p>
+            <a href="{{ post.url | prepend: site.baseurl }}" class="post-link">Read more &#8594;</a>
+          </div>
           {% else %}
+          <div class=post-content>
             <p>{{ post.content }}</p>
+          </div>
           {% endif %}
-        </div>
+
       </div>
     {% endfor %}
   </div>
