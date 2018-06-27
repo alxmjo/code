@@ -2,9 +2,9 @@
 layout: post
 title: "Listen to Women in Math"
 date: 2018-04-27T10:25:22-07:00
-image: 
+image:
 summary: My calculus teacher this term offered a few points of extra credit for listening and responding to an episode of the podcast "Women in Math." I really liked it, so I've added my notes about the podcast here.
-permalink: podcast-women-math 
+permalink: podcast-women-math
 category: Math
 tags: newsletter
 ---
@@ -17,7 +17,7 @@ I felt like the subject matter was specifically tailored to me: one student was 
 
 I found it illuminating to hear the guests' perspectives on what it's like to be a woman in math classes. It's funny that they are so often outnumbered as students, because I've had far more female math teachers than male. Perhaps that's just because women are overrepresented in education to begin with. Anyway, it's a good reminder to think about things from other's perspectives and to give others (especially those who are demographically outnumbered) a chance to speak.
 
-My first degree is in anthropology, which at the school I attended was a program with about two women for each man. While it's peanuts compared to what women experience in STEM fields, I'm not totally unfamiliar with being "outnumbered" in the classroom. 
+My first degree is in anthropology, which at the school I attended was a program with about two women for each man. While it's peanuts compared to what women experience in STEM fields, I'm not totally unfamiliar with being "outnumbered" in the classroom.
 
 One thing I like about this podcast in general is that it gives me some guidance on how I (as a white man) can bring up the people around me without making it about me. I love that the producer of this podcast, Damien Smith, creates it without needing to make it all about him.
 
