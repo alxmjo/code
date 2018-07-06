@@ -4,6 +4,7 @@ title: "My Plan for Oregon State"
 date: 2016-08-31T15:48:46-07:00
 image: 
 summary: These are the classes I'll be taking as part of my computer science degree.
+category: "Oregon State University"
 ---
 
 One of the tasks I had to complete in preparation for my starting classes at Oregon State was a class plan listing which classes I plan on taking each term. Here's what I came up with:

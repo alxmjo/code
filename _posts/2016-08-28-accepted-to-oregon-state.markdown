@@ -4,6 +4,7 @@ title: "Accepted to Oregon State"
 date: 2016-08-28T15:47:21-07:00
 image: 
 summary: Now that I know that I want to teach computer science, my first step will be getting a formal education in it. Oregon State, here I come!
+category: "Oregon State University"
 ---
 
 In July I submitted an application to the Computer Science program at Oregon State's College of Engineering. Here's the statement of intent that I submitted with my application:
