@@ -1,1 +1,0 @@
-The parent directory (.vscode) if this file houses settings for Visual Studio Code. If no longer using Visual Studio code, this directory can be removed.
