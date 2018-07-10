@@ -14,9 +14,9 @@ permalink: /posts/
         {% if post.url %}
           <li>
             <a href="{{ post.url }}">
-              <!-- If the post has an empty title (because it's a "short") then display the first few words instead of the title. -->
+              {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
               {% if post.title == "" %}
-                {{ post.content | truncatewords: 5 | strip_html }}
+                {{ post.content | strip_html | truncatewords: 5 }}
               {% else %}
                 {{ post.title }}
               {% endif %}
@@ -43,10 +43,9 @@ permalink: /posts/
     <li>
       <span class="post-list-date">{{ post.date | date: '%B %d, %Y' }}</span>
       <a class="post-list" href="{{ post.url }}">
-        <!-- If the post has an empty title (because it's a "short") then display the first few words instead of the title. -->
-        <!-- Note that problems will arise if the short post begins with an image. -->
+        {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
         {% if post.title == "" %}
-          {{ post.content | truncatewords: 5 | strip_html }}
+          {{ post.content | strip_html | truncatewords: 5 }}
         {% else %}
           {{ post.title }}
         {% endif %}
