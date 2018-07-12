@@ -6,7 +6,7 @@ permalink: jekyll-microblog
 title: "Untitled Posts in Jekyll"
 image:                  # /images/filename.jpg
 summary:                # A sentence or two about the post.
-category:               # "Oregon State University" (only one)
+category: Jekyll              # "Oregon State University" (only one)
 tags: writing jekyll
 sharing:                # Text to be shared on each network.
   twitter: A simple way to make writing easier - drop the title.
