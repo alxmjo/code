@@ -7,6 +7,8 @@ baseurl:     ""
 url:         "http://code.alxmjo.com"
 date_format: "%b %-d, %Y"
 excerpt_separator: <!--more-->
+face_image: /images/23153-2015-Apr-16-AMJ-X-840px.jpg
+non_face_image: /images/cs261notes.jpg
 
 # Google services
 google_analytics: UA-21369664-5
