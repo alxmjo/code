@@ -33,7 +33,7 @@ Here's a general overview of the topics we covered:
 - OpenGL
 
 ### Preparation
-I didn't do any advanced preparation for this course.
+I didn't do any advanced preparation for this course. If you'd like to get a sense for what it looks like, though, here's Professor Bailey's page on the course: [CS 475 - Parallel Programming](http://web.engr.oregonstate.edu/~mjb/cs575e/).
 
 ### Programming Environment
 I did all of my programming on my MacBook Pro using CLion and Sublime. It takes a little bit of work to get some of the libraries (OpenGL in particular) installed.
