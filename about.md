@@ -7,13 +7,14 @@ permalink: /about/
 ![alex and idara](/images/35271-2017-Jun-23-AMJ-X.jpg)
 *My daughter and me.*
 
-I grew up in Albany, Oregon, and have since lived in Havana, Strasbourg, Boston, Doha, and now Portland, Oregon. I have a lot of hobbies, but lately I’ve been focusing on writing (this blog) and programming (in C++).
+My name is Alex, and this is a rebirth. Having spent most of my twenties in a variety of pursuits, including farming, social services, journalism, and education, I'm currently drilling down on the education bit in the belief that a little extra focus will take me a lot farther. I'm studying math and computer science and plan on teaching those subjects when I graduate.
+
+This blog serves two goals: to [make my learning visible](http://www.mlvpz.org/) and to help me understand myself and my growth. That makes it like a journal - hastily written, poorly edited, and mostly for my benefit, not yours. That said, I care about what I write, and I hope you do too.
+
+If you'd like to know more about me and what I get up to, see my [personal blog](http://alexmontjohn.com/) or any of the sites below. 
 
 * [GitHub](http://github.com/alxmjo)
 * [LinkedIn](https://www.linkedin.com/in/alxmjo/)
 * [Stack Overflow](https://stackoverflow.com/users/3292279/alex-johnson)
-* [Instagram](https://www.instagram.com/alxmjo/)
-* [Twitter](https://twitter.com/alxmjo)
-* [Facebook](http://facebook.com/alexmontjohn)
 
-If you'd like to get in touch, I'm at <alexmontjohn@gmail.com>.
+If you'd like to get in touch, please email me at <alexmontjohn@gmail.com>.
