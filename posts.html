@@ -16,7 +16,7 @@ permalink: /posts/
             <a href="{{ post.url }}">
               {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
               {% if post.title == "" %}
-                {{ post.content | strip_html | truncatewords: 5 }}
+                {{ post.content | strip_html | truncatewords: 7 }}
               {% else %}
                 {{ post.title }}
               {% endif %}
@@ -45,7 +45,7 @@ permalink: /posts/
       <a class="post-list" href="{{ post.url }}">
         {% comment %} If the post has an empty title (because it's a "short") then display the first few words instead of the title. {% endcomment %}
         {% if post.title == "" %}
-          {{ post.content | strip_html | truncatewords: 5 }}
+          {{ post.content | strip_html | truncatewords: 7 }}
         {% else %}
           {{ post.title }}
         {% endif %}
