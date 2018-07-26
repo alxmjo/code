@@ -21,15 +21,8 @@ show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
 
-# Disqus post comments
-# (leave blank to disable Disqus)
-disqus_shortname:
-
-# Facebook Comments plugin
-# (leave blank to disable Facebook Comments, otherwise set it to true)
-facebook_comments: 
-facebook_appid: 
-facebook_comments_number: 10
+# Twitter
+twitter_username: alxmjo
 
 # Build settings
 markdown:     kramdown
