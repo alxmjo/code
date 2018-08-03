@@ -9,7 +9,7 @@ summary:
 category: Insitu
 tags:                   # newsletter
 sharing:                # Text to be shared on each network.
-  twitter: 
+  twitter: Some random, loosely organized thoughts on what I've learned in the last two weeks of my internship.
   facebook: 
   linkedin: 
 ---
