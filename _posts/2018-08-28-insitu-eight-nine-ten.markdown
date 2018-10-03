@@ -3,7 +3,7 @@ layout: post
 date: 2018-08-28T06:09:10-07:00
 permalink: insitu-eight-nine-ten
 
-title: "Insitu: Weeks 8, 9, and 10"
+title: "Insitu: Weeks Eight, Nine, and Ten"
 image: 
 summary: The last time I sat down to write about my internship, I was struggling through a lot of new concepts and information and trying to make sense of it all. Thankfully, that tide is beginning to turn.
 category: Insitu

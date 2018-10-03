@@ -6,7 +6,7 @@ permalink: superquest-dalles
 title: "Building a Submersible ROV at SuperQuest"               # Empty quotes if this is a short.
 image: /images/subrov.jpg
 summary: On Monday and Tuesday of last week, I skipped work to attend a SuperQuest conference in The Dalles. The goal? Build a submersible ROV and test it out at a local pool.
-category: 
+category: Events
 tags: superquest arduino teaching education
 sharing:                # Text to be shared on each network.
   twitter: On Monday and Tuesday of last week, I skipped work to attend a SuperQuest conference in The Dalles. The goal? Build a submersible ROV and test it out at a local pool.
